@@ -119,3 +119,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 #"Estoy en test"
+
+
+#Esto lo acaba de agregar expogit
